@@ -1,0 +1,43 @@
+body{
+    background:linear-gradient(red, rgb(6, 6, 179));
+    height: 2500px;
+}
+.img{
+    margin-left: 269px;
+    margin-top: 10px;
+}
+.img1{
+    margin-left: 150px;
+    margin-top: 10px; 
+}
+.circle{
+    width: 1200px;
+    height: 200px;    
+    background-color:rgb(255, 255, 255);
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.circle1{
+    width: 1000px;
+    height: 165px;
+    background-color:rgb(255, 255, 255);
+    border-radius: 17px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.circle2{
+    width: 1000px;
+    height: 450px;
+    background-color:rgb(255, 255, 255);
+    border-radius: 17px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-decoration:none;
+    color: aliceblue;
+    font-size: 14px;
+    margin-left: 1300px;
+  }
